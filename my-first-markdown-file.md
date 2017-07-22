@@ -12,4 +12,4 @@ Now you can be a Wiz at this language and code upto stuff like `console.writelin
 
 Can't remember the language? No problem! Just visit one of these resources:
 
-[Markdown CheatSheet by Adam Pritchard]
+[Markdown CheatSheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
